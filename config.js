@@ -1,13 +1,13 @@
-const ownerNumber = ["557187645787@s.whatsapp.net"] 
+const ownerNumber = ["558688036194@s.whatsapp.net"] 
 // mude somente o numero e não tire o @s.whatsapp.net
 
-const OriginalOwner = '557187645787' 
+const OriginalOwner = '558688036194' 
 // mude para seu numero
 
 const apikeyporn = 'fc8fe174f018b95cdae9272493f1a12f'
 // sua key do imgbb para ativar o antiporn
 
-const cr = '𝐁𝐑𝐈𝐙𝐀𝐒 𝐁𝐎𝐓\n' 
+const cr = '𝐇𝐀𝐃𝐄𝐒 𝐁𝐎𝐓\n' 
 // texto do simbolo de verificado
 
 const prefix = '!' 
@@ -103,9 +103,9 @@ let mess = {
 
 const vcard = 'BEGIN:VCARD\n' 
 + 'VERSION:3.0\n' 
-+ 'FN:Meu criador^~^\n' 
++ 'FN:Meu Dono^~^\n' 
 + 'ORG:Ian;\n' 
-+ 'TEL;type=CELL;type=VOICE;waid=557187645787:+55 71 8764-5787\n' 
++ 'TEL;type=CELL;type=VOICE;waid=5588036194:+55 86 8803-6194\n' 
 + 'END:VCARD'
 //vcard do propietário, mude os numeros de acordo com o formato que
 //ele corresponde
